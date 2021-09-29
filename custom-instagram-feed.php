@@ -1,7 +1,7 @@
 <?php
 	/**
 	  *  Plugin Name: Custom Instagram Feed
-	  *  Plugin URI: #
+	  *  Plugin URI: https://github.com/wpwebguru/Custom-Instagram-Feed
 	  *  Description: Display beautifully clean, customizable, and responsive Instagram feeds
 	  *  Version: 1.0
 	  *  Author: Sunny
